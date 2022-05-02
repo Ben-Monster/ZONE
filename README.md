@@ -20,7 +20,7 @@
 
 
 
-# ZONE.github.io
+# ZONE
 A WhatsApp bot come back from death 
 
   
