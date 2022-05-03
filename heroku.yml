@@ -2,7 +2,7 @@ build:
 
   docker:
 
-      worker: /whatsasena/Dockerfile
+      worker: /zone/Dockerfile
 
 run:
 
