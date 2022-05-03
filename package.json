@@ -6,7 +6,7 @@
 
   "description": "A WhatsApp bot come back from death.",
 
-  "main": "./Zone /bot.js",
+  "main": "./Zone/bot.js",
 
   "scripts": {
 
@@ -30,9 +30,9 @@
 
     "ai",
 
-    "asena",
+    "zone",
 
-    "WhatsAsena"
+    "zonebot"
 
    ],
 
