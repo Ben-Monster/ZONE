@@ -1,0 +1,9 @@
+build:
+
+  docker:
+
+      worker: /zone/Dockerfile
+
+run:
+
+   worker: npm start
