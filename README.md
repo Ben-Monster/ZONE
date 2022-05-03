@@ -26,7 +26,7 @@ A WhatsApp bot come back from death
   
 ### Simple Method 
 
-[![Run on Repl.it](https://replit.com/@BenMonster/ZONE-1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BenMonster/ZONE-1?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ben-Monster/ZONE.git)  
   
